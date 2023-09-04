@@ -1,0 +1,1 @@
+[//]: # (this application is designed as a personal password manager tool)
